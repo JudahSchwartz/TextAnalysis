@@ -1,0 +1,174 @@
+
+Letter Statistics:
+A: Shows up 275727 times. Percentage: %6.193
+B: Shows up 48875 times. Percentage: %1.098
+C: Shows up 55067 times. Percentage: %1.237
+D: Shows up 158094 times. Percentage: %3.551
+E: Shows up 412232 times. Percentage: %9.259
+F: Shows up 83543 times. Percentage: %1.876
+G: Shows up 55301 times. Percentage: %1.242
+H: Shows up 282678 times. Percentage: %6.349
+I: Shows up 193959 times. Percentage: %4.357
+J: Shows up 8889 times. Percentage: %0.2
+K: Shows up 22292 times. Percentage: %0.501
+L: Shows up 129938 times. Percentage: %2.919
+M: Shows up 79940 times. Percentage: %1.796
+N: Shows up 225055 times. Percentage: %5.055
+O: Shows up 243185 times. Percentage: %5.462
+P: Shows up 43254 times. Percentage: %0.972
+Q: Shows up 964 times. Percentage: %0.022
+R: Shows up 170327 times. Percentage: %3.826
+S: Shows up 190029 times. Percentage: %4.268
+T: Shows up 317744 times. Percentage: %7.137
+U: Shows up 83473 times. Percentage: %1.875
+V: Shows up 30365 times. Percentage: %0.682
+W: Shows up 65487 times. Percentage: %1.471
+X: Shows up 1478 times. Percentage: %0.033
+Y: Shows up 58576 times. Percentage: %1.316
+Z: Shows up 2972 times. Percentage: %0.067
+
+Word Statistics
+Words of Legnth 1: 16421 Percentage: %2.192
+Words of Legnth 2: 111816 Percentage: %14.925
+Words of Legnth 3: 186842 Percentage: %24.939
+Words of Legnth 4: 143134 Percentage: %19.105
+Words of Legnth 5: 87883 Percentage: %11.73
+Words of Legnth 6: 44067 Percentage: %5.882
+Words of Legnth 7: 40331 Percentage: %5.383
+Words of Legnth 8: 25862 Percentage: %3.452
+Words of Legnth 9: 21738 Percentage: %2.901
+Words of Legnth 10: 14896 Percentage: %1.988
+Words of Legnth 11: 10886 Percentage: %1.453
+Words of Legnth 12: 9176 Percentage: %1.225
+Words of Legnth 13: 8906 Percentage: %1.189
+Words of Legnth 14: 8320 Percentage: %1.111
+Words of Legnth 15: 5605 Percentage: %0.748
+Words of Legnth 16: 3885 Percentage: %0.519
+Words of Legnth 17: 2656 Percentage: %0.355
+Words of Legnth 18: 2131 Percentage: %0.284
+Words of Legnth 19: 1415 Percentage: %0.189
+Words of Legnth 20: 1025 Percentage: %0.137
+Words of Legnth 21: 727 Percentage: %0.097
+Words of Legnth 22: 494 Percentage: %0.066
+Words of Legnth 23: 335 Percentage: %0.045
+Words of Legnth 24: 228 Percentage: %0.03
+Words of Legnth 25: 141 Percentage: %0.019
+Words of Legnth 26: 109 Percentage: %0.015
+Words of Legnth 27: 67 Percentage: %0.009
+Words of Legnth 28: 43 Percentage: %0.006
+Words of Legnth 29: 19 Percentage: %0.003
+Words of Legnth 30: 15 Percentage: %0.002
+Words of Legnth 31: 14 Percentage: %0.002
+Words of Legnth 32: 6 Percentage: %0.001
+Words of Legnth 33: 4 Percentage: %0.001
+Words of Legnth 34: 3 Percentage: %0
+Words of Legnth 35: 1 Percentage: %0
+Words of Legnth 36: 3 Percentage: %0
+Words of Legnth 38: 1 Percentage: %0
+Words of Legnth 39: 1 Percentage: %0
+Words of Legnth 40: 1 Percentage: %0
+Words of Legnth 41: 1 Percentage: %0
+Words of Legnth 45: 1 Percentage: %0
+Words of Legnth 47: 1 Percentage: %0
+
+100 most common words:
+Number 1: the Shows up 55774 times. Percentage: %7.426
+Number 2: and Shows up 45994 times. Percentage: %6.124
+Number 3: of Shows up 30936 times. Percentage: %4.119
+Number 4: to Shows up 12095 times. Percentage: %1.61
+Number 5: in Shows up 11284 times. Percentage: %1.502
+Number 6: that Shows up 11172 times. Percentage: %1.487
+Number 7: he Shows up 9315 times. Percentage: %1.24
+Number 8: shall Shows up 8545 times. Percentage: %1.138
+Number 9: i Shows up 8090 times. Percentage: %1.077
+Number 10: for Shows up 7972 times. Percentage: %1.061
+Number 11: unto Shows up 7960 times. Percentage: %1.06
+Number 12: a Shows up 7318 times. Percentage: %0.974
+Number 13: his Shows up 7199 times. Percentage: %0.958
+Number 14: they Shows up 6395 times. Percentage: %0.851
+Number 15: is Shows up 6221 times. Percentage: %0.828
+Number 16: be Shows up 6056 times. Percentage: %0.806
+Number 17: with Shows up 5234 times. Percentage: %0.697
+Number 18: not Shows up 5208 times. Percentage: %0.693
+Number 19: all Shows up 4842 times. Percentage: %0.645
+Number 20: thou Shows up 4547 times. Percentage: %0.605
+Number 21: it Shows up 4285 times. Percentage: %0.57
+Number 22: lord Shows up 4240 times. Percentage: %0.565
+Number 23: was Shows up 3929 times. Percentage: %0.523
+Number 24: thy Shows up 3901 times. Percentage: %0.519
+Number 25: my Shows up 3816 times. Percentage: %0.508
+Number 26: which Shows up 3777 times. Percentage: %0.503
+Number 27: but Shows up 3641 times. Percentage: %0.485
+Number 28: ye Shows up 3474 times. Percentage: %0.463
+Number 29: have Shows up 3376 times. Percentage: %0.449
+Number 30: will Shows up 3356 times. Percentage: %0.447
+Number 31: their Shows up 3228 times. Percentage: %0.43
+Number 32: as Shows up 3225 times. Percentage: %0.429
+Number 33: from Shows up 3125 times. Percentage: %0.416
+Number 34: them Shows up 3054 times. Percentage: %0.407
+Number 35: him Shows up 2803 times. Percentage: %0.373
+Number 36: when Shows up 2653 times. Percentage: %0.353
+Number 37: are Shows up 2574 times. Percentage: %0.343
+Number 38: upon Shows up 2410 times. Percentage: %0.321
+Number 39: were Shows up 2355 times. Percentage: %0.314
+Number 40: by Shows up 2323 times. Percentage: %0.309
+Number 41: this Shows up 2314 times. Percentage: %0.308
+Number 42: out Shows up 2243 times. Percentage: %0.299
+Number 43: said Shows up 2129 times. Percentage: %0.283
+Number 44: god Shows up 2070 times. Percentage: %0.276
+Number 45: then Shows up 1982 times. Percentage: %0.264
+Number 46: hath Shows up 1929 times. Percentage: %0.257
+Number 47:  Shows up 1893 times. Percentage: %0.252
+Number 48: came Shows up 1857 times. Percentage: %0.247
+Number 49: there Shows up 1855 times. Percentage: %0.247
+Number 50: him, Shows up 1784 times. Percentage: %0.238
+Number 51: man Shows up 1781 times. Percentage: %0.237
+Number 52: on Shows up 1763 times. Percentage: %0.235
+Number 53: had Shows up 1761 times. Percentage: %0.234
+Number 54: into Shows up 1741 times. Percentage: %0.232
+Number 55: son Shows up 1741 times. Percentage: %0.232
+Number 56: up Shows up 1717 times. Percentage: %0.229
+Number 57: we Shows up 1620 times. Percentage: %0.216
+Number 58: king Shows up 1614 times. Percentage: %0.215
+Number 59: one Shows up 1597 times. Percentage: %0.213
+Number 60: me Shows up 1595 times. Percentage: %0.212
+Number 61: your Shows up 1514 times. Percentage: %0.202
+Number 62: if Shows up 1510 times. Percentage: %0.201
+Number 63: said, Shows up 1507 times. Percentage: %0.201
+Number 64: lord, Shows up 1505 times. Percentage: %0.2
+Number 65: an Shows up 1488 times. Percentage: %0.198
+Number 66: before Shows up 1473 times. Percentage: %0.196
+Number 67: so Shows up 1442 times. Percentage: %0.192
+Number 68: come Shows up 1439 times. Percentage: %0.192
+Number 69: at Shows up 1419 times. Percentage: %0.189
+Number 70: shalt Shows up 1395 times. Percentage: %0.186
+Number 71: let Shows up 1392 times. Percentage: %0.185
+Number 72: also Shows up 1383 times. Percentage: %0.184
+Number 73: them, Shows up 1377 times. Percentage: %0.183
+Number 74: against Shows up 1372 times. Percentage: %0.183
+Number 75: children Shows up 1368 times. Percentage: %0.182
+Number 76: thee Shows up 1331 times. Percentage: %0.177
+Number 77: her Shows up 1325 times. Percentage: %0.176
+Number 78: no Shows up 1184 times. Percentage: %0.158
+Number 79: went Shows up 1183 times. Percentage: %0.158
+Number 80: made Shows up 1180 times. Percentage: %0.157
+Number 81: go Shows up 1165 times. Percentage: %0.155
+Number 82: even Shows up 1151 times. Percentage: %0.153
+Number 83: house Shows up 1137 times. Percentage: %0.151
+Number 84: you Shows up 1113 times. Percentage: %0.148
+Number 85: saying, Shows up 1112 times. Percentage: %0.148
+Number 86: do Shows up 1100 times. Percentage: %0.146
+Number 87: me, Shows up 1098 times. Percentage: %0.146
+Number 88: now Shows up 1086 times. Percentage: %0.145
+Number 89: every Shows up 1064 times. Percentage: %0.142
+Number 90: saith Shows up 1052 times. Percentage: %0.14
+Number 91: people Shows up 1046 times. Percentage: %0.139
+Number 92: thee, Shows up 1042 times. Percentage: %0.139
+Number 93: or Shows up 1037 times. Percentage: %0.138
+Number 94: because Shows up 1035 times. Percentage: %0.138
+Number 95: these Shows up 1021 times. Percentage: %0.136
+Number 96: land Shows up 1014 times. Percentage: %0.135
+Number 97: our Shows up 1013 times. Percentage: %0.135
+Number 98: after Shows up 1008 times. Percentage: %0.134
+Number 99: o Shows up 1008 times. Percentage: %0.134
+Number 100: men Shows up 1000 times. Percentage: %0.133
